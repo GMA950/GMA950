@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gma950&label=Profile%20views&color=0e75b6&style=flat" alt="gma950" /> </p>
 
-<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">  
+<img src="https://profile-counter.glitch.me/gma950/count.svg">  
 
 [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 

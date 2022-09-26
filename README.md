@@ -4,8 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Franco Bocca</h1>
 <h3 align="center">A passionate computer science engineer and developer from Chile</h3>
-
-<p align="right">
 ```javascript
 const name = 'Franco';
 
@@ -18,8 +16,6 @@ while(dev.isCoding())
   dev.drinkWater();
 }
 ```
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gma950&label=Profile%20views&color=0e75b6&style=flat" alt="gma950" /> </p>
 
 - 🔭 I’m currently working on [Ciclo de Aprendizaje](https://observa.minciencia.gob.cl/programas-publicos/ciclo-de-aprendizaje)

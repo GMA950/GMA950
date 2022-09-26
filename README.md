@@ -18,6 +18,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 
+- 💼 Solutions/Integration Engineer at PayPal
+
 - 🔭 I’m currently working on [Ciclo de Aprendizaje](https://observa.minciencia.gob.cl/programas-publicos/ciclo-de-aprendizaje)
 
 - 🌱 I’m currently learning **DevOps Skills**
@@ -25,6 +27,10 @@
 - 👨‍💻 All of my projects are available at [working on that](working on that)
 
 - 💬 Ask me about **web development**
+
+- 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
+
+- ⚡ Fun facts: Speaks English and Spanish. INTP. Drinks tea everyday.
 
 ```javascript
 const name = 'Franco';

@@ -41,7 +41,7 @@ while(dev.isCoding())
 {
   dev.listenToMusic();
   dev.openStackOverFlow();
-  dev.drinkWater();
+  dev.drinkTea();
 }
 ```
 

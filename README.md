@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Franco Bocca</h1>
 <h3 align="center">A passionate computer science engineer and developer from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gma950&label=Profile%20views&color=0e75b6&style=flat" alt="gma950" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gma950&label=Profile%20views&color=0e75b6&style=flat" alt="gma950" /> </p>-->
 
 <table>
   <tr>
@@ -14,9 +14,7 @@
   </tr>
 </table>
 
-<img src="https://profile-counter.glitch.me/gma950/count.svg">  
-
-<!--[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)-->
+[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 
 - 🔭 I’m currently working on [Ciclo de Aprendizaje](https://observa.minciencia.gob.cl/programas-publicos/ciclo-de-aprendizaje)
 

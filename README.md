@@ -18,7 +18,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 
-- 💼 Solutions/Integration Engineer at PayPal
+- 💼 Currently studying to obtain my degree in [UACH](https://www.uach.cl/)
 
 - 🔭 I’m currently working on [Ciclo de Aprendizaje](https://observa.minciencia.gob.cl/programas-publicos/ciclo-de-aprendizaje)
 

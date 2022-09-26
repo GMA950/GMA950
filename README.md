@@ -27,8 +27,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gma950&show_icons=true&locale=en&layout=compact" alt="gma950" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=gma950&show_icons=true&locale=en" alt="gma950" /></td>
+    <td valign="top"><img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=gma950&show_icons=true&locale=en&layout=compact" alt="gma950" /></td>
+    <td valign="top"><img align=top src="https://github-readme-stats.vercel.app/api?username=gma950&show_icons=true&locale=en" alt="gma950" /></td>
   </tr>
 </table>
 

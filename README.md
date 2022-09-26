@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/GMA950?tab=followers)
 
 <p align="left"> <a href="https://twitter.com/gma950_" target="blank"><img src="https://img.shields.io/twitter/follow/gma950_?logo=twitter&style=for-the-badge" alt="gma950_" /></a> </p>
 

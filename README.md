@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://tenor.com/view/software-software-development-gif-24712790)
+![alt text](https://tenor.com/view/software-software-development-gif-24712790](https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif)
 
 <!--
 **GMA950/GMA950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

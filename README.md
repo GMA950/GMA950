@@ -61,7 +61,7 @@ while(dev.isCoding())
 
 <table  align="center">
   <tr>
-    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gma950&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="gma950" /></td>
+    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gma950&show_icons=true&theme=outrun&locale=en&layout=compact" alt="gma950" /></td>
     <td valign="center"><img src="https://github-readme-stats.vercel.app/api?username=gma950&show_icons=true&theme=tokyonight&locale=en" alt="gma950" /></td>
   </tr>
 </table>

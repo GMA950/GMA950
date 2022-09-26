@@ -6,7 +6,7 @@
 <h3 align="center">A passionate computer science engineer and developer from Chile</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gma950&label=Profile%20views&color=0e75b6&style=flat" alt="gma950" /> </p>-->
-
+<br>
 <table>
   <tr>
     <td>You are visitor</td>

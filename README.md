@@ -1,4 +1,6 @@
-<p align="center">![](images/software-software-development.gif)</p>
+<p align="center">
+  <img width="460" height="300" src="images/software-software-development.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm Franco Bocca</h1>
 <h3 align="center">A passionate computer science engineer and developer from Chile</h3>

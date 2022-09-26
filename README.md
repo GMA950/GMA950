@@ -66,7 +66,7 @@ while(dev.isCoding())
   </tr>
 </table>
 
-<p align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gma950&" alt="gma950" /></p>
+<p align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gma950&theme=dark" alt="gma950" /></p>
 
 
 <!--

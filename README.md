@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [working on that](working on that)
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **full stack web development**
 
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
 

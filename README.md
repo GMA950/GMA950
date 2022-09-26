@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Franco Bocca</h1>
 <h3 align="center">A passionate computer science engineer and developer from Chile</h3>
 
+<h4 Since I was 7 years old, I've been using computers and have been learning how to use them. 🖥 </h4>
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gma950&label=Profile%20views&color=0e75b6&style=flat" alt="gma950" /> </p>-->
 <br>
 <table>

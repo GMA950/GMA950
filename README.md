@@ -20,7 +20,7 @@
 
 - 💼 Currently studying to obtain my degree in [UACH](https://www.uach.cl/)
 
-- 🔭 I’m currently working on [Ciclo de Aprendizaje](https://observa.minciencia.gob.cl/programas-publicos/ciclo-de-aprendizaje)
+- 🔭 I’m currently working on [Ciclo de Aprendizaje](https://observa.minciencia.gob.cl/programas-publicos/ciclo-de-aprendizaje) of the [MinCiencia](https://www.minciencia.gob.cl/)
 
 - 🌱 I’m currently learning **DevOps Skills**
 

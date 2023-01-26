@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://twitter.com/gma950_" target="blank"><img src="https://img.shields.io/twitter/follow/gma950_?logo=twitter&style=for-the-badge" alt="gma950_" /></a> </p>
 
-- 💼 Currently studying to obtain my degree in [UACH](https://www.uach.cl/)
+- 💼 Degree in Computer Science & Engineering [UACH](https://www.uach.cl/)
 
 - 🔭 I’m currently working on [Ciclo de Aprendizaje](https://observa.minciencia.gob.cl/programas-publicos/ciclo-de-aprendizaje) of the [MinCiencia](https://www.minciencia.gob.cl/)
 
